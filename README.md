@@ -1,5 +1,5 @@
 # Semantic-Segmentation
-An Efficient Semantic Segmentation Neural Network for the Detection of Diseases and Pest of Plant Leaf and Medical Diagnosis
+An Efficient Semantic Segmentation Neural Network  (E-SCNN) for the Detection of Diseases and Pest of Plant Leaf and Medical Diagnosis
 
 This paper helps to solve one problem in phytopathology and two problems in medical research.
 The first problem is retinal vascular segmentation for diagnosing fundus diseases. Unfortunately,
